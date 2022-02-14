@@ -1,0 +1,19 @@
+{
+  "name": "socket-sandbox",
+  "version": "1.0.0",
+  "description": "socket.io を調べる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matumoto1234/socket-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matumoto1234/socket-sandbox/issues"
+  },
+  "homepage": "https://github.com/matumoto1234/socket-sandbox#readme"
+}
